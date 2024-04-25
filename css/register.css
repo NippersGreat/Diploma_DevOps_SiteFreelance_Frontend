@@ -1,0 +1,37 @@
+body{
+    background: #FFFFFF;
+}
+#register-block-main{
+    float: left;
+    margin: 0 10% 0 10%;
+    background: #d0daea;
+    opacity: 90%;
+    padding: 10%;
+
+    height: 100vh;
+    width: 50%;
+
+}
+#role{
+    float: right;
+    offset-position: 0 10px;
+}
+vector{
+    float: right;
+}
+input{
+    opacity: 50%;
+    width: 40%;
+    float: right;
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 2px;
+    border-radius: 16px;
+    padding: 3%;
+    margin: 0 0 0 0;
+}
+#register-button{
+    width: 100%;
+    margin: 10% 0 0 0;
+    padding: 3% 0 3% 0;
+}
