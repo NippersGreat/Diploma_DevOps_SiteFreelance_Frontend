@@ -1,0 +1,10 @@
+#---------------------------------------------------------------------------
+# Dockefile to build Docker Image of NGINX WebServer with my Web Applicaiton
+#
+# Copyleft(c) by Denis Astahov
+#---------------------------------------------------------------------------
+
+FROM Apache:latest
+
+COPY ./index.html   /var/www/html/index.html
+COPY ./For luck.jpg /var/www/html/For luck.jpg
