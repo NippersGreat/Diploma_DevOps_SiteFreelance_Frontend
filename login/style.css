@@ -1,0 +1,225 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 1225px;
+  position: relative;
+  overflow: hidden;
+}
+.group-25 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-38 {
+  background: linear-gradient(
+    180deg,
+    rgba(208, 218, 234, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 1920px;
+  height: 613px;
+  position: absolute;
+  left: 0px;
+  top: 612px;
+}
+.rectangle-39 {
+  background: linear-gradient(
+    180deg,
+    rgba(208, 218, 234, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  width: 1920px;
+  height: 613px;
+  position: absolute;
+  left: 1920px;
+  top: 613px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.group-34 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-14 {
+  background: var(--05, #8eafcf);
+  border-radius: 50%;
+  width: 374.34px;
+  height: 374.34px;
+  position: absolute;
+  left: 1167px;
+  top: 164px;
+  filter: blur(62.7px);
+}
+.ellipse-15 {
+  background: var(--04, #587897);
+  border-radius: 50%;
+  width: 293px;
+  height: 293px;
+  position: absolute;
+  left: 1394px;
+  top: 677px;
+  filter: blur(46.9px);
+}
+.img-1510-1 {
+  width: 568px;
+  height: 898px;
+  position: absolute;
+  left: 1132px;
+  top: 164px;
+  object-fit: cover;
+}
+._700-nw-1-9 {
+  border-radius: 0px;
+  width: 878px;
+  height: 1318px;
+  position: absolute;
+  left: calc(50% - 740px);
+  top: calc(50% - 659.5px);
+  overflow: visible;
+}
+.group-37 {
+  position: absolute;
+  inset: 0;
+}
+.div2 {
+  background: var(--04, #587897);
+  border-radius: 30px;
+  padding: 15px 25px 15px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 617px;
+  height: 63px;
+  position: absolute;
+  left: calc(50% - 610px);
+  top: 657px;
+  box-shadow: 18px 18px 30px 0px rgba(148, 165, 180, 1),
+    -18px -18px 30px 0px rgba(255, 255, 255, 0.6);
+}
+.text {
+  color: var(--09, #ffffff);
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 26px;
+  line-height: 150%;
+  font-weight: 300;
+  position: relative;
+}
+.div3 {
+  color: var(--04, #587897);
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 26px;
+  line-height: 150%;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 509px);
+  top: 307px;
+  width: 414px;
+  height: 36px;
+}
+.group-28 {
+  width: 615px;
+  height: 49px;
+  position: static;
+}
+.rectangle-40 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--09, #ffffff);
+  border-width: 2px;
+  width: 575px;
+  height: 49px;
+  position: absolute;
+  left: 392px;
+  top: 431px;
+}
+._2 {
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 15px 25px 15px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 172px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 608px);
+  top: calc(50% - 181.5px);
+  box-shadow: 18px 18px 30px 0px rgba(148, 165, 180, 1),
+    -18px -18px 30px 0px rgba(255, 255, 255, 0.6);
+}
+.e-mail {
+  color: var(--02, #14202d);
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 300;
+  position: relative;
+}
+.vector-27 {
+  width: 0px;
+  height: 19px;
+  position: absolute;
+  left: 579px;
+  top: 446px;
+  overflow: visible;
+}
+.group-32 {
+  width: 615px;
+  height: 49px;
+  position: static;
+}
+.rectangle-43 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--09, #ffffff);
+  border-width: 2px;
+  width: 549px;
+  height: 49px;
+  position: absolute;
+  left: 418px;
+  top: 521px;
+}
+._22 {
+  background: #ffffff;
+  border-radius: 30px;
+  padding: 15px 25px 15px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 608px);
+  top: calc(50% - 91.5px);
+  box-shadow: 18px 18px 30px 0px rgba(148, 165, 180, 1),
+    -18px -18px 30px 0px rgba(255, 255, 255, 0.6);
+}
+.div4 {
+  color: var(--02, #14202d);
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 300;
+  position: relative;
+  width: 225px;
+}
+.vector-30 {
+  width: 0px;
+  height: 20px;
+  position: absolute;
+  left: 579px;
+  top: 536px;
+  overflow: visible;
+}
