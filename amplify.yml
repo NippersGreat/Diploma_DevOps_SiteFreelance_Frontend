@@ -7,6 +7,6 @@ frontend:
     artifacts:
         baseDirectory: /
         files:
-            - '**/*'
+            - php/pages/index.php
     cache:
         paths: []
