@@ -10,3 +10,15 @@ frontend:
             - '**/*'
     cache:
         paths: []
+
+backend:
+  phases:
+    build:
+      commands:
+        - "" 
+  artifacts:
+    baseDirectory: /
+    files:
+      - '**/*'
+  cache:
+    paths: []
